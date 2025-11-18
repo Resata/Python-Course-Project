@@ -5,7 +5,7 @@ A Python-based exploratory data analysis (EDA) of NYC Taxi & Limousine Commissio
  This project focuses on using core Python data analysis tools to examine data quality, fare patterns, trip characteristics, and customer behavior.
 
 📌 Project Objectives
-Perform initial data exploration and cleaning
+* Perform initial data exploration and cleaning
 
 
 Identify data types and detect anomalies
