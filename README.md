@@ -1,6 +1,6 @@
 ## 🚕 Automatidata – NYC Taxi Trip Analysis (Course 2)
 
-A Python-based exploratory data analysis (EDA) of NYC Taxi & Limousine Commission (TLC) trip data.
+A Python-based exploratory data analysis (EDA) of NYC Taxi & Limousine Commission (TLC) trip data completed as part of Course 2: Get started with Python in the Google Advanced Data Analytics program..
 This project focuses on using core Python data analysis tools to examine data quality, fare patterns, trip characteristics, and customer behavior.
 
 
